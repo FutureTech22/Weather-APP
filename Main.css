@@ -1,0 +1,45 @@
+body{
+	margin: 0px auto;
+	background:url('http://www.cray.com/blog/wp-content/uploads/2015/09/Weather-Blog-Image.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+#pagehead {
+	margin-top: 50px;
+}
+	h1 {
+	color:white;
+	margin-left: 44%;
+	margin-top: 25px;
+}
+
+#temperature{
+	margin: 0px auto;
+	margin-top:100px;
+}
+
+.city {
+	
+	width:20%;
+	border: 2px solid white;
+	display:inline-block;
+	color:white;
+	
+}
+
+#cities {
+	border: 2px solid black;
+	margin-left: 5%;
+}
+
+#submit {
+	border: 2px solid black;
+}
+
+.city {
+	margin: 25px;
+	height: 150px;
+}
